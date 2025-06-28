@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2023<br>📚 I'm currently learning mern stack<br>🎯 Goals: To be the best open source contributer<br>🎲 Fun fact: i make the problems</p>
+<p align="left">✨ Creating bugs since 2023<br>📚 I'm currently learning mern stack and AI<br>🎯 Goals: To be the best open source contributer<br>🎲 Fun fact: i make the problems</p>
 
 ###
 
