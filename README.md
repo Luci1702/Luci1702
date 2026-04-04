@@ -19,11 +19,11 @@
 
 <div align="center">
 
-### 💻 Frontend
-<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,angular" />
+### 🌐 Frontend
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,angular" />
 
 ### ⚙️ Backend
-<img src="https://skillicons.dev/icons?i=nodejs,nestjs,python,django,java,spring" />
+<img src="https://skillicons.dev/icons?i=nodejs,nestjs,java,spring,python,django" />
 
 ### 🗄️ Database
 <img src="https://skillicons.dev/icons?i=mysql" />
