@@ -4,6 +4,8 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=600&lines=FullStack+Developer;MERN+Stack+Enthusiast;Java+%26+Spring+Boot+Developer;AI+Learner;Open+Source+Contributor" />
 
+<img src="https://komarev.com/ghpvc/?username=Luci1702&color=blue&style=for-the-badge"/>
+
 ### 🚀 FullStack Developer from Pune
 
 ✨ Creating elegant solutions since 2023  
@@ -19,11 +21,11 @@
 
 <div align="center">
 
-### 💻 Frontend
-<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,angular" />
+### 🌐 Frontend
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,angular" />
 
 ### ⚙️ Backend
-<img src="https://skillicons.dev/icons?i=nodejs,nestjs,python,django,java,spring" />
+<img src="https://skillicons.dev/icons?i=nodejs,nestjs,java,spring,python,django" />
 
 ### 🗄️ Database
 <img src="https://skillicons.dev/icons?i=mysql" />
@@ -32,31 +34,42 @@
 <img src="https://skillicons.dev/icons?i=aws,azure,github" />
 
 </div>
-
 ---
-
 ## 🌟 Featured Projects
 
+<div align="center">
+
 ### 🎓 Learning Hub
-🚀 Course platform with progress tracking & categories  
+💡 A course platform with category-wise learning and progress tracking  
+🛠️ Tech: React, Node.js, MySQL  
+
+---
 
 ### 🎉 EventNest
 📍 Venue booking system with real-time availability  
-
-### 💼 ProSphere
-🌐 Freelancer + job + networking platform  
-
-### 📅 Meeting & Task Planner
-📊 Team collaboration with Jira-like features  
+🛠️ Tech: MERN Stack  
 
 ---
+
+### 💼 ProSphere
+🌐 Platform for freelancers, jobs, and networking  
+🛠️ Tech: React, Spring Boot, MySQL  
+
+---
+
+### 📅 Meeting & Task Planner
+📊 Task management with team collaboration (Jira-like)  
+🛠️ Tech: Java, Spring Boot  
+
+</div>
 
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Luci1702&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luci1702&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -66,7 +79,7 @@
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=yourusername&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=Luci1702&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -75,36 +88,23 @@
 ## 🧠 Currently Learning
 
 - 🔥 MERN Stack Mastery  
-- ☕ Java + Spring Boot Development  
+- ☕ Java + Spring Boot  
 - 🤖 AI Integration  
 - 🚀 Performance Optimization  
 
 ---
 
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
-
-</div>
-
----
 
 ## 📫 Connect With Me
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/pravin-mahamuni-995a04185">
-<img src="https://img.shields.io/badge/LinkedIn-Pravin-blue?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="mailto:your.email@example.com">
+<a href="mailto:pravinmahamuni22@gmail.com">
 <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
 </a>
 
-<a href="https://yourportfolio.com">
-<img src="https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge&logo=google-chrome"/>
+<a href="https://www.linkedin.com/in/pravin-mahamuni-995a04185">
+<img src="https://img.shields.io/badge/LinkedIn-Pravin-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
 </div>
@@ -114,7 +114,5 @@
 <div align="center">
 
 💡 *"Every bug is a feature waiting to be discovered!"*
-
-⭐ Don't forget to star repositories!
 
 </div>
