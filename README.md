@@ -35,6 +35,34 @@
 
 </div>
 
+## 🌟 Featured Projects
+
+<div align="center">
+
+### 🎓 Learning Hub
+💡 A course platform with category-wise learning and progress tracking  
+🛠️ Tech: React, Node.js, MySQL  
+
+---
+
+### 🎉 EventNest
+📍 Venue booking system with real-time availability  
+🛠️ Tech: MERN Stack  
+
+---
+
+### 💼 ProSphere
+🌐 Platform for freelancers, jobs, and networking  
+🛠️ Tech: React, Spring Boot, MySQL  
+
+---
+
+### 📅 Meeting & Task Planner
+📊 Task management with team collaboration (Jira-like)  
+🛠️ Tech: Java, Spring Boot  
+
+</div>
+
 ## 📊 GitHub Stats
 
 <div align="center">
