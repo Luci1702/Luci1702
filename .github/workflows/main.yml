@@ -13,6 +13,7 @@ jobs:
       - uses: Platane/snk@v3
         with:
           github_user_name: Luci1702
+          github_token: ${{ secrets.GH_PAT }}
           outputs: |
             dist/github-contribution-grid-snake.svg
 
@@ -20,3 +21,5 @@ jobs:
         with:
           target_branch: output
           build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GH_PAT }}
