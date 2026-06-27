@@ -93,7 +93,9 @@
 - 🚀 Performance Optimization  
 
 ---
+## 📈 Contribution Graph
 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Luci1702&theme=tokyo-night" />
 
 ## 📫 Connect With Me
 
