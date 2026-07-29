@@ -9,7 +9,7 @@
 ### 🚀 FullStack Developer from Pune
 
 ✨ Creating elegant solutions since 2023  
-📚 Currently learning: MERN Stack & AI  
+📚 Currently learning: Generative AI & AI agents  
 🎯 Goal: Top Open Source Contributor  
 🎲 Fun fact: I turn problems into opportunities  
 
@@ -28,7 +28,7 @@
 <img src="https://skillicons.dev/icons?i=nodejs,nestjs,java,spring,python,django" />
 
 ### 🗄️ Database
-<img src="https://skillicons.dev/icons?i=mysql" />
+<img src="https://skillicons.dev/icons?i=mysql,Postgresql" />
 
 ### ☁️ Cloud & DevOps
 <img src="https://skillicons.dev/icons?i=aws,azure,github" />
