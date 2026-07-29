@@ -2,7 +2,7 @@
 
 # 👋 Hey there! I'm Pravin Mahamuni
 
-<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=600&lines=FullStack+Developer;MERN+Stack+Enthusiast;Java+%26+Spring+Boot+Developer;AI+Learner;Open+Source+Contributor" />
+<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=600&lines=FullStack+Developer;GenAI+Enthusiast;Java+%26+Spring+Boot+Developer;AI+Learner;Open+Source+Contributor" />
 
 <img src="https://komarev.com/ghpvc/?username=Luci1702&color=blue&style=for-the-badge"/>
 
