@@ -28,7 +28,7 @@
 <img src="https://skillicons.dev/icons?i=nodejs,nestjs,java,spring,python,django" />
 
 ### 🗄️ Database
-<img src="https://skillicons.dev/icons?i=mysql,Postgresql" />
+<img src="https://skillicons.dev/icons?i=mysql" />
 
 ### ☁️ Cloud & DevOps
 <img src="https://skillicons.dev/icons?i=aws,azure,github" />
