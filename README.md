@@ -553,8 +553,7 @@ Interactive learning platform with progress tracking and course management.
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Luci1702&theme=tokyonight&no-frame=true&no-bg=true&row=2&column=4"/>
-
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Luci1702&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
 </div>
 
 ---
