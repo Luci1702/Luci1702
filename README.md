@@ -59,7 +59,7 @@
 
 ### 📅 Meeting & Task Planner
 📊 Task management with team collaboration (Jira-like)  
-🛠️ Tech: Java, Spring Boot  
+🛠️ Tech: React js , Java, Spring Boot  
 
 </div>
 
