@@ -59,19 +59,19 @@ AuthentiKit is an end-to-end AI-powered verification platform designed to authen
 
 ### 💼 ProSphere
 🌐 Platform for freelancers, jobs, and networking  
-🛠️ Tech: React, Spring Boot, MySQL  
+🛠️ Tech: React js + vite, Spring Boot, MySQL  
 
 ---
 
 ### 📅 Meeting & Task Planner
 📊 Task management with team collaboration (Jira-like)  
-🛠️ Tech: React js , Spring Boot , MySQL 
+🛠️ Tech: React js + vite, Spring Boot , MySQL 
 
 ---
 
 ### 📅 NOC Management system
 📊 A digital No Objection Certificate (NOC) Management System built for Yavatmal district. It allows citizens to apply for NOCs from various government departments online, and lets department officers/authorities review, approve, or reject applications through a role-based dashboard. 
-🛠️ Tech: React js , Springboot , MySQL
+🛠️ Tech: React js + vite, Springboot , MySQL
 
 </div>
 
