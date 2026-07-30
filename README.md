@@ -47,7 +47,7 @@
 
 ### 🎉 EventNest
 📍 Venue booking system with real-time availability  
-🛠️ Tech: MERN Stack  
+🛠️ Tech: React js, springboot, MySQL
 
 ---
 
