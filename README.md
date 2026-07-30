@@ -64,8 +64,8 @@
 ---
 
 ### 📅 NOC Management system
-📊 NO Objection Certificate Management System is 
-🛠️ Tech: React js , Spring Boot , MySQL 
+📊 A digital No Objection Certificate (NOC) Management System built for Yavatmal district. It allows citizens to apply for NOCs from various government departments online, and lets department officers/authorities review, approve, or reject applications through a role-based dashboard. 
+🛠️ Tech: React js , Springboot , MySQL
 
 </div>
 
