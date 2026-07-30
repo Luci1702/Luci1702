@@ -34,7 +34,7 @@
 <img src="https://skillicons.dev/icons?i=aws,azure,github" />
 
 </div>
----
+
 ## 🌟 Featured Projects
 
 <div align="center">
