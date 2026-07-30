@@ -39,15 +39,21 @@
 
 <div align="center">
 
+### 🤖 Authentikit
+AuthentiKit is an end-to-end AI-powered verification platform designed to authenticate sports media and detect deepfakes or AI-generated manipulation using physics-based multimodal analysis.
+🛠️ Tech: Google Gemini 1.5 Pro API, Google Cloud Video Intelligence API, Node.js & Express.js, React.js & Vite, Tailwind CSS 
+
+---
+
 ### 🎓 Learning Hub
 💡 A course platform with category-wise learning and progress tracking  
-🛠️ Tech: React, Node.js, MySQL  
+🛠️ Tech: React js + vite, Node.js, MySQL  
 
 ---
 
 ### 🎉 EventNest
 📍 Venue booking system with real-time availability  
-🛠️ Tech: React js, springboot, MySQL
+🛠️ Tech: React js + vite, springboot, MySQL
 
 ---
 
