@@ -666,6 +666,10 @@ Interactive learning platform with progress tracking and course management.
 # 🌐 Connect With Me
 
 <div align="center">
+   
+<a href="https://pravin-mahamuni-portfolio.web.app/" target="_blank">
+<img src="https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
 
 <a href="mailto:pravinmahamuni22@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
@@ -677,10 +681,6 @@ Interactive learning platform with progress tracking and course management.
 
 <a href="https://github.com/Luci1702">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://pravin-mahamuni-portfolio.web.app/" target="_blank">
-<img src="https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
 </div>
